@@ -82,6 +82,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+.mypy_cache/
 
 # IDE & OS files
 .vscode/
@@ -92,3 +93,7 @@ cover/
 .DS_Store
 Thumbs.db
 Desktop.ini
+.scratch/
+docs/
+AGENTS.md
+GLOSSARY.md
